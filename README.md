@@ -5,5 +5,7 @@ Repository for the m-agnostic blockchain implementation: https://github.com/dhag
 
 ```
 npm install
+npm install -save https://github.com/dhagell/mcoin.git
+npm install -save https://github.com/dhagell/mcoin-ui.git
 npm start
 ```
