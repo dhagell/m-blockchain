@@ -1,0 +1,22 @@
+{
+  "name": "m-blockchain",
+  "version": "1.0.0",
+  "description": "m agnostic blockchain",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhagell/m-blockchain.git"
+  },
+  "keywords": [
+    "blockchain"
+  ],
+  "author": "dhagell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dhagell/m-blockchain/issues"
+  },
+  "homepage": "https://github.com/dhagell/m-blockchain#readme"
+}
